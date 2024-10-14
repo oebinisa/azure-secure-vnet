@@ -1,5 +1,4 @@
-# azure-secure-vnet
-Build a Secure Virtual Network - Azure, using the CLI
+# Build a Secure Virtual Network - Azure, using the CLI
 
 ## Introduction
 Design and implement a secure virtual network in Azure with virtual machines (VMs) and a storage account. Set up Network Security Groups (NSGs) for traffic control, establish secure communication through a VPN Gateway, and enable monitoring to track the network's performance and security status.
